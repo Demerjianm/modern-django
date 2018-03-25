@@ -3,3 +3,4 @@ venv
 
 virtualenv -p python3 envname
 
+.env
